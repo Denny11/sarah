@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.example"
+    version   = "1.0.0">
+
+<name>Fam Flores García</name>
+
+<description>
+La familia de Sarah xP
+</description>
+
+<icon src="icono.png" gap:platform="android" gap:density="ldpi" />
+
+<author href="https://www.facebook.com/dny.gdl" email="dny_gdl@live.com">
+Dny Jesús
+</author>
+
+</widget>
